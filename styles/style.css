@@ -1,0 +1,35 @@
+header {
+  background-color: cyan;
+  color: black;
+  font-size: 35px;
+  text-align: center;
+}
+img{
+  width: 25%;
+}
+.card{
+  background: #dda;
+  width: 40%;
+  border-radius: 2px 2px 2px;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+.main{
+  display: flex;
+//  justify-content: space-between;
+}
+.leftDiv{
+  width: 30%;
+  background-color: #dda;
+  border: 6px solid #fff000;
+  box-shadow: 3px 3px 3px #000000;
+}
+.rightDiv{
+  margin: 1%;
+  padding: 1%;
+  background-color: #dda;
+  border: 4px solid #fff000;
+
+}
