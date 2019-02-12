@@ -16,9 +16,12 @@ img{
   padding: 1%;
   margin: 1%;
 }
-.main{
+.mainDiv{
   display: flex;
 //  justify-content: space-between;
+}
+.main{
+  display: flex;
 }
 .leftDiv{
   width: 30%;
