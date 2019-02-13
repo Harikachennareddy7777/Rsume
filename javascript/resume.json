@@ -1,0 +1,37 @@
+{
+  "profile":{
+    "name":"Harika Chennareddy",
+    "image":"imges/profile.png",
+    "comname":"APSSDC",
+    "number":"7090790709",
+    "mail":"harika.ch@gmail.com",
+    "career":"Career objective or resume objective acts as the pitch of your resume. It mentions the goal and objective of your career. Even though it is not a strict requirement to include a resume objective in your resume, a well-written objective can help you catch the attention of the recruiter"
+  },
+  "Education":[
+    {
+      "degree":"B.Tech",
+      "college":"QIS",
+      "branch":"CSE",
+      "marks":"88%",
+      "endDate":"20/04/2020"
+    },
+    {
+      "degree":"Inter",
+      "college":"Bhashyam",
+      "branch":"MPC",
+      "marks":"83%",
+      "endDate":"20/03/2016"
+    },
+    {
+      "degree":"SSC",
+      "school":"Care",
+      "medium":"EM",
+      "marks":"88%",
+      "endDate":"09/04/2014"
+    }
+  ],
+  "skills":{
+    "OS":"Windows 7,Windows 8.1,Windows8.1,XP",
+    "PS":"HTML,JAVA,C"
+  }
+}
